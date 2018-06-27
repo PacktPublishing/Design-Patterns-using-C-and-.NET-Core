@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MilkyWayponLib">
+      <HintPath>..\..\..\..\..\..\..\..\Documents\Visual Studio 2017\Projects\MilkyWayponLib\MilkyWayponLib\bin\Release\netcoreapp2.0\MilkyWayponLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

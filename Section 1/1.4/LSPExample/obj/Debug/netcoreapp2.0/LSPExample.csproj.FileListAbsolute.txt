@@ -1,0 +1,11 @@
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 1\Video 4\LSPExample\LSPExample\bin\Debug\netcoreapp2.0\LSPExample.deps.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 1\Video 4\LSPExample\LSPExample\bin\Debug\netcoreapp2.0\LSPExample.runtimeconfig.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 1\Video 4\LSPExample\LSPExample\bin\Debug\netcoreapp2.0\LSPExample.runtimeconfig.dev.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 1\Video 4\LSPExample\LSPExample\bin\Debug\netcoreapp2.0\LSPExample.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 1\Video 4\LSPExample\LSPExample\bin\Debug\netcoreapp2.0\LSPExample.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 1\Video 4\LSPExample\LSPExample\obj\Debug\netcoreapp2.0\LSPExample.csprojResolveAssemblyReference.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 1\Video 4\LSPExample\LSPExample\obj\Debug\netcoreapp2.0\LSPExample.csproj.CoreCompileInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 1\Video 4\LSPExample\LSPExample\obj\Debug\netcoreapp2.0\LSPExample.AssemblyInfoInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 1\Video 4\LSPExample\LSPExample\obj\Debug\netcoreapp2.0\LSPExample.AssemblyInfo.cs
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 1\Video 4\LSPExample\LSPExample\obj\Debug\netcoreapp2.0\LSPExample.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 1\Video 4\LSPExample\LSPExample\obj\Debug\netcoreapp2.0\LSPExample.pdb

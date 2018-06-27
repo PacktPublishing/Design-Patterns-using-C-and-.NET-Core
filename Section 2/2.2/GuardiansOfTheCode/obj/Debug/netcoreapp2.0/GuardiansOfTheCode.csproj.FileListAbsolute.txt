@@ -1,0 +1,11 @@
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.deps.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.dev.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csprojResolveAssemblyReference.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csproj.CoreCompileInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfoInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfo.cs
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb

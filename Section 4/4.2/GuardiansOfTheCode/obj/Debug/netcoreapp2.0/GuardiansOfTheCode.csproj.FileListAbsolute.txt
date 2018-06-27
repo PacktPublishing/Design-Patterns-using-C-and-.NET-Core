@@ -1,0 +1,87 @@
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.deps.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.dev.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csprojResolveAssemblyReference.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csproj.CoreCompileInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfoInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfo.cs
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Course Project\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.deps.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.dev.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csprojResolveAssemblyReference.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csproj.CoreCompileInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfoInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfo.cs
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.deps.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.dev.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csprojResolveAssemblyReference.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csproj.CoreCompileInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfoInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfo.cs
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 2\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csprojResolveAssemblyReference.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csproj.CoreCompileInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfoInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfo.cs
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.deps.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.dev.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\Common.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 3\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\Common.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.deps.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.dev.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\Common.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\Common.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csprojResolveAssemblyReference.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csproj.CoreCompileInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfoInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfo.cs
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 3\Video 4\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.deps.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.dev.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\Common.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\Common.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csprojResolveAssemblyReference.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csproj.CoreCompileInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfoInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfo.cs
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 1\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.deps.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.runtimeconfig.dev.json
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\Common.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\MilkyWayponLib.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\Common.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\bin\Debug\netcoreapp2.0\MilkyWayponLib.pdb
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csprojResolveAssemblyReference.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.csproj.CoreCompileInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfoInputs.cache
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.AssemblyInfo.cs
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.dll
+C:\Users\jmast\Google Drive\Documents\Packt\Design Patterns using C# and .NET Core\Section 4\Video 2\GuardiansOfTheCode\GuardiansOfTheCode\obj\Debug\netcoreapp2.0\GuardiansOfTheCode.pdb

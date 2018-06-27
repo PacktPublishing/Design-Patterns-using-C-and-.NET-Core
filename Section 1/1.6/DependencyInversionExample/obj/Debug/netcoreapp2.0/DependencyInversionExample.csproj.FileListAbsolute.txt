@@ -1,0 +1,11 @@
+C:\Users\jmast\Documents\Visual Studio 2017\Projects\DependencyInversionExample\DependencyInversionExample\bin\Debug\netcoreapp2.0\DependencyInversionExample.deps.json
+C:\Users\jmast\Documents\Visual Studio 2017\Projects\DependencyInversionExample\DependencyInversionExample\bin\Debug\netcoreapp2.0\DependencyInversionExample.runtimeconfig.json
+C:\Users\jmast\Documents\Visual Studio 2017\Projects\DependencyInversionExample\DependencyInversionExample\bin\Debug\netcoreapp2.0\DependencyInversionExample.runtimeconfig.dev.json
+C:\Users\jmast\Documents\Visual Studio 2017\Projects\DependencyInversionExample\DependencyInversionExample\bin\Debug\netcoreapp2.0\DependencyInversionExample.dll
+C:\Users\jmast\Documents\Visual Studio 2017\Projects\DependencyInversionExample\DependencyInversionExample\obj\Debug\netcoreapp2.0\DependencyInversionExample.csprojResolveAssemblyReference.cache
+C:\Users\jmast\Documents\Visual Studio 2017\Projects\DependencyInversionExample\DependencyInversionExample\obj\Debug\netcoreapp2.0\DependencyInversionExample.csproj.CoreCompileInputs.cache
+C:\Users\jmast\Documents\Visual Studio 2017\Projects\DependencyInversionExample\DependencyInversionExample\obj\Debug\netcoreapp2.0\DependencyInversionExample.AssemblyInfoInputs.cache
+C:\Users\jmast\Documents\Visual Studio 2017\Projects\DependencyInversionExample\DependencyInversionExample\obj\Debug\netcoreapp2.0\DependencyInversionExample.AssemblyInfo.cs
+C:\Users\jmast\Documents\Visual Studio 2017\Projects\DependencyInversionExample\DependencyInversionExample\bin\Debug\netcoreapp2.0\DependencyInversionExample.pdb
+C:\Users\jmast\Documents\Visual Studio 2017\Projects\DependencyInversionExample\DependencyInversionExample\obj\Debug\netcoreapp2.0\DependencyInversionExample.dll
+C:\Users\jmast\Documents\Visual Studio 2017\Projects\DependencyInversionExample\DependencyInversionExample\obj\Debug\netcoreapp2.0\DependencyInversionExample.pdb
